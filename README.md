@@ -1,7 +1,7 @@
-# Learning HTML Tags 
+# Fourcrown Hotel
 # Project Name
 ## Overview
-This project is a responsive portfolio website designed to showcase modern web design techniques using **HTML5** and **CSS3**. It includes features such as animations, flexbox, and media queries to ensure a seamless user experience across different devices.
+This project is a responsive Hotel website designed to showcase modern web design techniques using **HTML5** and **CSS3**. It includes features such as animations, flexbox, and media queries to ensure a seamless user experience across different devices.
 
 ---
 ## Table of Contents
@@ -19,12 +19,11 @@ This project is a responsive portfolio website designed to showcase modern web d
 ---
 ## About the Project
 
-This is a responsive website showcasing a portfolio. The project highlights modern web design techniques using **HTML5** and **CSS3**, including features like animations, flexbox, and media queries.
+This is a responsive hotel website. The project highlights modern web design techniques using **HTML5** and **CSS3**, including features like animations, flexbox, and media queries.
 ---
 ## Technologies Used
 - **HTML5**  
 - **CSS3**  
-- [Font Awesome](https://fontawesome.com/) (Optional, if used for icons)  
 - [Google Fonts](https://fonts.google.com/)  
 ---
 ## Features
@@ -40,7 +39,7 @@ You will need the following tools installed on your machine:
 ### Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/WahomeJeremy/html0002.git
+   git clone https://github.com/WahomeJeremy/Fourcrown_Hotel.git
    ```
 ---
 ## Usage
@@ -48,8 +47,7 @@ To use this project, open the `index.html` file in your web browser. You can als
 ---
 ## Screenshots
 Include screenshots of your project here. :
-<img src="assets/Screenshot 2025-01-16 105735.png" alt="">
-## Contributing
+<img src="[Screenshot 2025-01-19 205425](images/Screenshot 2025-01-19 205425.png)" alt="website screenshot"> Contributing
 Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch-name`
@@ -62,4 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ## Contact
 Your Name - [wahome@nisria](mailto:your-wahome@nisria.co)  
-Project Link: [https://github.com/WahomeJeremy/html0002.git](https://github.com/WahomeJeremy/html0002)
+Project Link: https://github.com/WahomeJeremy/Fourcrown_Hotel.git
