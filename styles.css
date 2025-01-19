@@ -122,5 +122,18 @@ header {
     border: 1px solid #ccc;
     border-radius: 10px;
 }
-
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:rgba(161, 157, 157, 0.484);
+    color: #0d0d0d;
+    border-radius: 20px;
+}
+footer a {
+    color: #090909;
+    margin: 0 10px;
+}
+footer a:hover {
+    text-decoration: underline;
+}
 
