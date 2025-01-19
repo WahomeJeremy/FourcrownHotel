@@ -13,3 +13,11 @@ a {
     text-decoration: none;
     color: rgb(17, 16, 16);
 }
+button {
+    background-color: #26455c;
+    color: #e8dcdc;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
