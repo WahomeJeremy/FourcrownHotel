@@ -74,4 +74,28 @@ header {
     text-align: center;
     border-radius: 30px;
 }
+.room-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+.room img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.room button {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.amenities {
+    padding: 20px;
+    text-align: center;
+}
+.amenities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
 
