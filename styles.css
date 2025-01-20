@@ -81,7 +81,7 @@ header {
 }
 .room img {
     width: 100%;
-    height: auto;
+    height:50% ;
     border-radius: 10px;
 }
 .room button {
