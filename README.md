@@ -47,7 +47,7 @@ To use this project, open the `index.html` file in your web browser. You can als
 ---
 ## Screenshots
 Include screenshots of your project here. :
-<img src="[Screenshot 2025-01-19 205425](images/Screenshot 2025-01-19 205425.png)" alt="website screenshot"> Contributing
+<img src="images\Screenshot 2025-01-19 205425.png" alt="website screenshot"> Contributing
 Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch-name`
